@@ -10,3 +10,5 @@ do
 done
 end_time0=`date +%s`
 echo "DONE. Total execution time is $(expr $end_time0 - $start_time0)s."
+
+
